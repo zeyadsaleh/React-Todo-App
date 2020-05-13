@@ -1,3 +1,5 @@
+Simple To-Do app with ReacJs that allows the user to add, delete and check his daily to do list
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
